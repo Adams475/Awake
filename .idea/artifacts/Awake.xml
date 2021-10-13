@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Awake">
+    <output-path>$PROJECT_DIR$/out/artifacts/Awake</output-path>
+    <root id="root">
+      <element id="archive" name="Awake.jar">
+        <element id="module-output" name="Awake" />
+      </element>
+    </root>
+  </artifact>
+</component>
